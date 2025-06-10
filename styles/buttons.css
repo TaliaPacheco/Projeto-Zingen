@@ -15,7 +15,7 @@
 
     font: var(--fw-md) var(--fs-base)/1.5rem var(--ff-sans);
 
-    cursor: pointer;
+    
 
     background:var(--btn-bg-color);
     color: var(--btn-color);
